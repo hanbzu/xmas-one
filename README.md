@@ -3,7 +3,7 @@
 This is a place to experiment building a fully working application with the following stack:
 
 - [x] Next.js (React)
-- [ ] Hosted in Vercel
+- [x] Hosted in Vercel at https://xmas-one.vercel.app/
 - [ ] [DPS](https://nextjs.org/docs/deployment#dps-develop-preview-ship) workflow for development / deployment
 - [ ] Typescript
 - [ ] Installable (see [Progressive Web App](https://web.dev/progressive-web-apps/))
@@ -18,3 +18,4 @@ This is a place to experiment building a fully working application with the foll
 
 - Ran `yarn add next react react-dom` and cleaned up the boilerplate a bit
 - Followed the steps in https://nextjs.org/docs/deployment
+- Added Typescript to Next.js project following https://nextjs.org/docs/basic-features/typescript - I wonder how optional will TS be and what does _"Next.js strict mode is turned off by default. When you feel comfortable with TypeScript, it's recommended to turn it on in your tsconfig.json"_ mean?
