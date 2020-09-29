@@ -4,9 +4,9 @@ This is a place to experiment building a fully working application with the foll
 
 - [x] Next.js (React)
 - [ ] Hosted in Vercel
-- [ ] (DPS)[https://nextjs.org/docs/deployment#dps-develop-preview-ship] workflow for development / deployment
+- [ ] [DPS](https://nextjs.org/docs/deployment#dps-develop-preview-ship) workflow for development / deployment
 - [ ] Typescript
-- [ ] Installable (see (Progressive Web App)[https://web.dev/progressive-web-apps/])
+- [ ] Installable (see [Progressive Web App](https://web.dev/progressive-web-apps/))
 - [ ] Cypress.js tested
 
 # Contributing
