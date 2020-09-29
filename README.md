@@ -16,5 +16,5 @@ This is a place to experiment building a fully working application with the foll
 
 # History
 
-- Ran `yarn add next react react-dom` and cleaned up the boilerplate a bit
+- Ran `yarn create next-app` and cleaned up the boilerplate a bit
 - Followed the steps in https://nextjs.org/docs/deployment
