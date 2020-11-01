@@ -34,7 +34,7 @@ const log = {
         "For all its matorial advantages, the sedentary life has left us edgy, unfulfilled. Even after 400 generations in villages and cities, we haven’t forgotten. The open road still softly calls, like a nearly forgotten song of childhood.",
     },
     {
-      anchor: "9u6wgASevJ",
+      anchor: ["9u6wgASevJ"], // You can anchor a version to multiple parents to say it derives from those
       uuid: "Bk7cmNseNv",
       shared: "2020-10-29T11:12:00Z",
       author: "puffin",
