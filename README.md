@@ -9,6 +9,14 @@ This is a place to experiment building a fully working application with the foll
 - [x] Installable (see [Progressive Web App](https://web.dev/progressive-web-apps/))
 - [ ] Cypress.js tested
 
+# The application, µDraft
+
+µDraft (because Tinydraft was taken) is a small text editor to write very short copy and share it around for others to comment, annotate and edit, so you can quickly evolve your copy with the help of others.
+
+It's serverless in a playfull way: yes there's a server with all the app code, but state, state is not stored in any cloud DB. State is in your browser and in the URLs you share with your collaborators.
+
+![µDraft diagram](diagram.png "µDraft diagram")
+
 # Contributing
 
 - Launch dev mode with `yarn dev`
