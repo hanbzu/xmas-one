@@ -112,22 +112,3 @@ _**note**: This document is a draft, there are still some scenarios to describe.
 > When I accept the "change suggestion"  
 > Then I will see the change consolidated on the editable version
 
-<style>
-h2 {
-  border-top: 3px solid #3d7e9a;
-  padding-top: 40px;
-  margin-top: 60px!important;
-}
-h3 {
-  display: inline-block;
-  background-color: #333;
-  line-height: 1.25;
-  color:#fff;
-  padding: 0 8px 0 20px;
-  font-weight:400;
-}
-h4 {
-  padding: 0 2px;
-  color: #3d7e9a;
-}
-</style>
