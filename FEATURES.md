@@ -1,6 +1,8 @@
 # µDraft Capabilities, Features and Scenarios
 
-_Allow external reviews, (upon request), of editable document._
+"Allow external reviews, (upon request), of editable document."
+
+_**note**: This document is a draft, there are still some scenarios to describe._
 
 ## Edit document
 
@@ -16,7 +18,7 @@ _Allow external reviews, (upon request), of editable document._
 
 #### Open my document
 
-> Given document "doc-a" and "doc-b" in my document folder
+> Given document "doc-a" and "doc-b" in my document folder  
 > When I open the "doc-a"  
 > Then the text of the document "doc-a" will be displayed  
 > And I'll have his version history
